@@ -1,3 +1,5 @@
+Code for the Pluralsight guide [Component Compsition in React](https://www.pluralsight.com/guides/react-component-composition/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
